@@ -14,3 +14,4 @@ A Snowflake-centric ETL platform built with Python and AWS.
 - `sql/` → SQL assets (DDL, MERGE templates)
 - `docs/` → procedure docs, architecture notes
 - `tests/` → unit/integration tests
+
